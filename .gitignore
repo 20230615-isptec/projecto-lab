@@ -1,0 +1,9 @@
+
+.env
+node_modeules/
+*.log
+.DS_Store
+EQF
+
+
+
